@@ -22,6 +22,8 @@
 <h1><a name="_Toc467586652"></a>3.&nbsp;&nbsp;&nbsp;&nbsp; Intendant audience</h1>
 <p>All configuration and setup is being done on Centos&nbsp; 6, Linux platform. So Database Administrator or System Administrator or Developer should have basic knowledge of Linux command, MySQL database information to follow this document.</p>
 <h1><a name="_Toc467586653"></a>4.&nbsp;&nbsp;&nbsp;&nbsp; High Level diagram</h1>
+ <img src="High Level Diagram.png" alt="High Level Diagram" height="761px" width="848px"> 
+  
 <h1><a name="_Toc467586654"></a>5.&nbsp;&nbsp;&nbsp;&nbsp; Used tools &nbsp;</h1>
 <ul>
 <li>Percona 5.7 cluster</li>
