@@ -194,6 +194,7 @@
 <ul>
 <li>After this configuration ,we can monitor http:// 192.168.2.1:8080</li>
 </ul>
+ <img src="Haproxy.png" alt="haproxy" height="761px" width="848px"> 
 <h3><a name="_Toc467586659"></a>6.2.2 Keepalived configuration</h3>
 <ul>
 <li>Keepalived tool uses to select one LB at a time. This tool will be installed in both LB server .i.e. 192.168.2.2 and 192.168.2.3 are LB servers based on above diagram. Virtual IP will be added in keepalived.conf configuration file.</li>
